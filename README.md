@@ -1,6 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwxtwd)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwxtwd)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwxtwd&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwxtwd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xwxtwd)
 
