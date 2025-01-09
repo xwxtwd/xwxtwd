@@ -1,7 +1,13 @@
+<center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xwxtwd&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xwxtwd&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</center>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xwxtwd&theme=react-dark)
+
 
 
 
